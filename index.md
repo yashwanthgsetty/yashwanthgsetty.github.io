@@ -3,7 +3,11 @@ Foodie | Funny | Hard working | Critic | Love for Web Dev | Graphic Designer | M
 || Workoholic ||
 Love to work in a challenging environment where I can use my technical and problem solving skills to contribute to the productivity of the organization and also create an enjoyable career for myself.
 
-<h1>Projects</h1>
+### Undergrad:
+Information Science and Engineering at Sri Jayachamarajendra College of Engineering, Mysore.
+
+
+<h1>Major Projects</h1>
 
 ### Optical Character Recognition to identify handwritten numbers and document them conveniently (As a part of Internship program at Ion Idea, Bangalore during July-August 2015):
 An OCR project with machine learning approach to identify and determine the exact value of handwritten numbers (Scores entered by the evaluator on student’s marks sheet) and documenting the marks conveniently. The idea is to automate the process of entry of student’s marks into the database.
@@ -19,3 +23,11 @@ A project with the aim of providing accurate name wise results with convenient i
 
 ### CityBus Mysore App – Transit bus finder application:
 A DBMS project intended to find the best possible local bus routes between any two places in Mysore city and display them along with the Arrival time of buses. (Worked on data collection through web scraping, data organization and testing the android application to achieve the best user experience and accuracy in routes and timings.)
+
+<h1> Co-Curriculars: </h1>
+<ol>
+<li>Freelance web developer and graphic designer having worked with real clients on major freelancing websites.</li>
+<li>Team member at Ace Animators (Animated video productions) with considerable contributions towards development of custom animated videos and Marketing them to targeted buyers. Developed order tracking facility for the same.  </li>
+<li>Web Development lead of CSI-SJCE </li>
+<li>Creative custom graphic designing and animated video making with tools such as Inkscape, Gimp, Adobe After Effects and VideoScribe.</li>
+</ol>
