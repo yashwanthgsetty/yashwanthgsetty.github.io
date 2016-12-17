@@ -1,6 +1,6 @@
 ### Thanks for your interest! Here's Who I am.
-Foodie | Funny | Hard working | Critic | Love for Web Dev | Graphic Designer | Meme Maker
-|| Workoholic ||
+Foodie | Funny | Hard working | Critic | Love for Web Dev | Graphic Designer | Meme Maker | Workoholic 
+<br>
 Love to work in a challenging environment where I can use my technical and problem solving skills to contribute to the productivity of the organization and also create an enjoyable career for myself.
 
 ### Undergrad:
