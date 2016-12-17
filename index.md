@@ -34,8 +34,8 @@ A DBMS project intended to find the best possible local bus routes between any t
 
 <h1>Social Profiles</h1>
 <ul>
-<li><img src=""/> <a href='http://fb.com/yashwanth.gsetty'>Facebook</a></li>
-<li><img src=""/> <a href='http://instagram.com/yantra_manava'>Instagram</a></li>
-<li><img src=""/> <a href='http://twitter.com/yashgsetty'>Twitter</a></li>
+<li><i class="fa fa-facebook fa-fw fa-3x"></i> <a href='http://fb.com/yashwanth.gsetty'>Facebook</a></li>
+<li><i class="fa fa-instagram fa-fw fa-3x"></i> <a href='http://instagram.com/yantra_manava'>Instagram</a></li>
+<li><i class="fa fa-twitter fa-fw fa-3x"></i> <a href='http://twitter.com/yashgsetty'>Twitter</a></li>
 </ul>
 
