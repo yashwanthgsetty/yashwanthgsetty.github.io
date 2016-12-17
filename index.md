@@ -31,3 +31,11 @@ A DBMS project intended to find the best possible local bus routes between any t
 <li>Web Development lead of CSI-SJCE </li>
 <li>Creative custom graphic designing and animated video making with tools such as Inkscape, Gimp, Adobe After Effects and VideoScribe.</li>
 </ul>
+
+<h1>Social Profiles</h1>
+<ul>
+<li><img src=""/> <a href='http://fb.com/yashwanth.gsetty'>Facebook</a></li>
+<li><img src=""/> <a href='http://instagram.com/yantra_manava'>Instagram</a></li>
+<li><img src=""/> <a href='http://twitter.com/yashgsetty'>Twitter</a></li>
+</ul>
+
