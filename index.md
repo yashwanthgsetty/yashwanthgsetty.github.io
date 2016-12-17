@@ -4,7 +4,6 @@ Foodie | Funny | Hard working | Critic | Love for Web Dev | Graphic Designer | M
 Love to work in a challenging environment where I can use my technical and problem solving skills to contribute to the productivity of the organization and also create an enjoyable career for myself.
 
 <h1>Projects</h1>
-<br>
 
 ### Optical Character Recognition to identify handwritten numbers and document them conveniently (As a part of Internship program at Ion Idea, Bangalore during July-August 2015):
 An OCR project with machine learning approach to identify and determine the exact value of handwritten numbers (Scores entered by the evaluator on student’s marks sheet) and documenting the marks conveniently. The idea is to automate the process of entry of student’s marks into the database.
