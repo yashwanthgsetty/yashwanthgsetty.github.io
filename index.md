@@ -25,9 +25,9 @@ A project with the aim of providing accurate name wise results with convenient i
 A DBMS project intended to find the best possible local bus routes between any two places in Mysore city and display them along with the Arrival time of buses. (Worked on data collection through web scraping, data organization and testing the android application to achieve the best user experience and accuracy in routes and timings.)
 
 <h1> Co-Curriculars: </h1>
-<ol>
+<ul>
 <li>Freelance web developer and graphic designer having worked with real clients on major freelancing websites.</li>
 <li>Team member at Ace Animators (Animated video productions) with considerable contributions towards development of custom animated videos and Marketing them to targeted buyers. Developed order tracking facility for the same.  </li>
 <li>Web Development lead of CSI-SJCE </li>
 <li>Creative custom graphic designing and animated video making with tools such as Inkscape, Gimp, Adobe After Effects and VideoScribe.</li>
-</ol>
+</ul>
