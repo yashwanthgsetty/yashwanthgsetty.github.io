@@ -1,14 +1,20 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+### Thanks for your interest! Here's Who I am.
+Foodie | Funny | Hard working | Critic | Love for Web Dev | Graphic Designer | Meme Maker
+|| Workoholic ||
+Love to work in a challenging environment where I can use my technical and problem solving skills to contribute to the productivity of the organization and also create an enjoyable career for myself.
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+<h1>Projects</h1>
+### Optical Character Recognition to identify handwritten numbers and document them conveniently: (As a part of Internship program at Ion Idea, Bangalore during July-August 2015)
+An OCR project with machine learning approach to identify and determine the exact value of handwritten numbers (Scores entered by the evaluator on student’s marks sheet) and documenting the marks conveniently. The idea is to automate the process of entry of student’s marks into the database.
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+### Interactive online Treasure hunt:
+A DBMS project intended to serve as an online picture connect game where users are promoted to next level based on correctness of their answer. The game was equipped with User login system, Leader board and Statistics. The system dynamically generates graphs indicating user base at each level of the game and also Difficulty of each question is determined graphically based on number of wrong answers.
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+### Online vehicle sharing:
+An online platform for travelers to find suitable travel partners and make the journey economical. Using a secure and convenient interface a user can upload the details about his journey and also vehicle specifications indicating available seats. Other users can browse through the list of vehicle sharers ‘from and to’ their place of choice to find their contact info.
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Name wise result system for VTU (Engineering) students:
+A project with the aim of providing accurate name wise results with convenient interface for engineering students all over Karnataka. The android application is named ‘VTU Baba’, which has other interesting features such as interactive forum to connect students and time table option.
+
+### CityBus Mysore App – Transit bus finder application:
+A DBMS project intended to find the best possible local bus routes between any two places in Mysore city and display them along with the Arrival time of buses. (Worked on data collection through web scraping, data organization and testing the android application to achieve the best user experience and accuracy in routes and timings.)
